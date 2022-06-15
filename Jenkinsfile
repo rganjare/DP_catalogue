@@ -1,4 +1,4 @@
 @Library('DP_shared-library@main') _
 
-env.COMPONENT="catalogue"
+env.COMPONENT="DP_catalogue"
 nodeJS()
